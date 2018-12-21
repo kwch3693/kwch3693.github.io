@@ -1,14 +1,45 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Forty</title>
-    <link>https://kwch3693.github.io/</link>
-    <description>Recent content on Forty</description>
+    <title>Kyle Chang</title>
+    <link>http://www.example.com/</link>
+    <description>Recent content on Kyle Chang</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en</language>
     
-	<atom:link href="https://kwch3693.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.example.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About Me</title>
+      <link>http://www.example.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/about/</guid>
+      <description>I am sophmore at the University of Maryland College Park studying in Computer Science and Math (in the near future). I am commited to learning and teaching. In the upcoming semester I plan on becoming a TA for one of the 300 level computer science classes. In addition I also tutor elementary to highschoolers in Math and Science.
+What am I currently up to? Self Teaching:
+ Differential Equations Multivarible Calculus Physics (Classical Mechanics) Design and manufacturing principles  Besides that I am working on my upcoming projects.</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>http://www.example.com/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/projects/</guid>
+      <description>Crime and Weather in New York Webpage Description This tutorial serves as both an analysis of relationship between crime and weather in New York and an introductory project for those aspiring to get into datascience. In our tutorial we dealt with problems like missing data and interpreting the data, all of which are invaluable in any datascience project. As a small spoiler we found that weather turned out to be a good predictor on crime frequency.</description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>http://www.example.com/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/research/</guid>
+      <description> Epiviz Description Epiviz is primarily focused on providing a visualization of epigenetic data, with the goal of leading researchers/research groups to new discoveries and findings within the data. Check it out here
+ Two server Oram Description A cryptographically secure data structure that preserves privacy by using random reads and writes.
+ </description>
+    </item>
     
   </channel>
 </rss>
